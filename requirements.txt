@@ -1,0 +1,9 @@
+SQLAlchemy>=2.0
+pydantic
+torch
+torchvision
+numpy
+pandas
+scikit-learn
+Pillow
+pydicom
